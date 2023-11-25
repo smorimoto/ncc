@@ -58,7 +58,7 @@
     "ioredis": "^5.3.2",
     "isomorphic-unfetch": "^4.0.2",
     "jest": "^27.5.1",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.0",
     "jugglingdb": "2.0.1",
     "koa": "^2.14.2",
     "leveldown": "^6.0.0",
