@@ -48,7 +48,7 @@
     "firebase": "^7.24.0",
     "firebase-admin": "^11.10.1",
     "fluent-ffmpeg": "^2.1.2",
-    "fontkit": "^1.7.7",
+    "fontkit": "^2.0.0",
     "get-folder-size": "^2.0.0",
     "glob": "^8.0.3",
     "got": "^12.5.2",
