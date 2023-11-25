@@ -28,7 +28,7 @@
     "@slack/web-api": "^6.9.0",
     "@vercel/webpack-asset-relocator-loader": "1.7.3",
     "analytics-node": "^6.2.0",
-    "apollo-server-express": "^2.2.2",
+    "apollo-server-express": "2.22.1",
     "arg": "^5.0.2",
     "auth0": "^2.14.0",
     "aws-sdk": "^2.1448.0",
