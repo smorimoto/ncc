@@ -30,7 +30,7 @@
     "analytics-node": "^6.2.0",
     "apollo-server-express": "^2.2.2",
     "arg": "^5.0.2",
-    "auth0": "^2.14.0",
+    "auth0": "^2.44.0",
     "aws-sdk": "^2.1448.0",
     "axios": "^0.21.1",
     "azure-storage": "^2.10.2",
