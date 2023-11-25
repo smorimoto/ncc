@@ -92,7 +92,7 @@
     "shebang-loader": "^0.0.1",
     "socket.io": "^4.7.2",
     "source-map-support": "^0.5.9",
-    "stripe": "^8.167.0",
+    "stripe": "^14.0.0",
     "swig": "^1.4.2",
     "terser": "^5.19.3",
     "the-answer": "^1.0.0",
