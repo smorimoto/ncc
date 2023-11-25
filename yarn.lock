@@ -4906,12 +4906,10 @@ console-control-strings@^1.0.0, console-control-strings@^1.1.0, console-control-
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
-consolidate@^0.16.0:
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/consolidate/-/consolidate-0.16.0.tgz#a11864768930f2f19431660a65906668f5fbdc16"
-  integrity sha512-Nhl1wzCslqXYTJVDyJCu3ODohy9OfBMB5uD2BiBTzd7w+QY0lBzafkR8y8755yMYHAaMD4NuzbAw03/xzfw+eQ==
-  dependencies:
-    bluebird "^3.7.2"
+consolidate@^1.0.0:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/consolidate/-/consolidate-1.0.3.tgz#037cfb283dc1396a98eea5bbeb05b79c2a51f2a8"
+  integrity sha512-gxeWOO+IvYrJ3Wv/6RYQhTeBm0/lqXW+mzn86ziZf2CwPnIz/7Z5oL3lPKXm24ntiXyX9byBzMEOA14mVgWG8A==
 
 constant-case@^1.1.0:
   version "1.1.2"
