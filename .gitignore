@@ -30,3 +30,4 @@ dist/**/*.js
 !examples/**
 examples/**/node_modules
 examples/**/dist
+!renovate.json
