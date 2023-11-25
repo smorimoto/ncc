@@ -100,7 +100,7 @@
     "ts-loader": "^9.4.4",
     "tsconfig-paths": "^4.2.0",
     "tsconfig-paths-webpack-plugin": "^4.1.0",
-    "twilio": "^3.23.2",
+    "twilio": "^3.80.0",
     "typescript": "^5.2.2",
     "vm2": "^3.9.19",
     "vue": "^2.5.17",
