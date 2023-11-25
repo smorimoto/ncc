@@ -50,7 +50,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "fontkit": "^1.7.7",
     "get-folder-size": "^2.0.0",
-    "glob": "^8.0.3",
+    "glob": "^10.0.0",
     "got": "^12.5.2",
     "graceful-fs": "^4.2.11",
     "graphql": "^15.5.1",
