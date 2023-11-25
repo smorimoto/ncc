@@ -19,7 +19,7 @@
     "prepublishOnly": "node scripts/build.js --no-cache"
   },
   "devDependencies": {
-    "@azure/cosmos": "^3.17.3",
+    "@azure/cosmos": "^4.0.0",
     "@bugsnag/js": "^7.21.0",
     "@ffmpeg-installer/ffmpeg": "^1.0.17",
     "@google-cloud/bigquery": "^5.7.0",
